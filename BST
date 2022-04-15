@@ -1,5 +1,4 @@
-//odd0004
-//Omil Dudhat
+
 
 #include <stdlib.h>
 #include <time.h>
